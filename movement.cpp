@@ -7,6 +7,9 @@ moveLeft(){
 moveRight(){
   
 }
-jump(){
+moveUp(){
 
+}
+moveDowm(){
+ 
 }
