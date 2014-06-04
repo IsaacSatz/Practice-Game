@@ -10,6 +10,6 @@ char char1 = "a";
 int main(){
   cin<<char1<<endl;
   if(char1="a"){
-    moveLeft(x);
+    x.moveLeft;
   }
 }
