@@ -2,10 +2,8 @@
 #include <movement.cpp>
 
 using namespace std;
-int x [5] = {1,2,2,2,2,3};
-int y [5] = {1,1,2,2,2,3};
 
-
+char character = "O";
 char char1 = "a";
 int main(){
   cin<<char1<<endl;
